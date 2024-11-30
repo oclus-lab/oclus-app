@@ -1,3 +1,11 @@
 # IDE
 .idea/
 .vscode/
+
+# Rust
+core/target/
+core/gen/
+
+# Node
+ui/node_modules/
+ui/.svelte-kit/
